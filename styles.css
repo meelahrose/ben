@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: khaki;
+    color: black;}
+img{
+    width: 50vw;
+    height: auto;
+}
+
+
